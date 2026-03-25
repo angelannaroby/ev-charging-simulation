@@ -2,7 +2,7 @@
 
 A simulation and visualization tool for modeling **electric vehicle (EV) charging demand** and analyzing power usage patterns over time.
 
-🔗 **Live Demo:** https://angelannaroby.github.io/reonic-ev-charging-simulation/
+🔗 **Live Demo:** https://angelannaroby.github.io/ev-charging-simulation/
 
 ---
 
