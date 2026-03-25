@@ -43,7 +43,7 @@ export function PageHeader({ title, summaryItems }: PageHeaderProps) {
               color: 'var(--accent)',
             }}
           >
-            Reonic Take-Home Assignment
+            Take-Home Assignment
           </span>
 
           <h1
